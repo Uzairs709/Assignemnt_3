@@ -1,8 +1,8 @@
-Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,3
-The Great Gatsby,F. Scott Fitzgerald,1925,5
-To Kill a Mockingbird,Harper Lee,1960,8
-1984,George Orwell,1949,0
-Pride and Prejudice,Jane Austen,1813,1
-yoooo,meee,666,100
-To Kill a Mockingbird,Ha,1960,60
-what,yo,111,2
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,200
+The Great Gatsby,F. Scott Fitzgerald,1925,18
+To Kill a Mockingbird,Harper Lee,1960,15
+1984,George Orwell,1949,9
+Pride ,Jane Austen,1813,100
+yo,meee,2011,2
+Mockingjay,Haahaaa,1960,12
+hello,what,2022,10
